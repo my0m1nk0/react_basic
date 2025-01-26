@@ -1,4 +1,4 @@
-export default function CoreConcepts(props){
+export default function CoreConcept(props){
     // {image, title, description}  = props
     return(
         <li>
